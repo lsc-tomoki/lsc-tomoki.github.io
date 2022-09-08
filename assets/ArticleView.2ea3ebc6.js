@@ -1,0 +1,1 @@
+import{_ as e,o as s,b as t,d as c}from"./index.40737070.js";const o={},r={class:"article"},_=c("h1",null,"There is articles' home.",-1),a=[_];function n(i,l){return s(),t("div",r,a)}const h=e(o,[["render",n]]);export{h as default};
