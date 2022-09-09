@@ -1,0 +1,1 @@
+import{_ as e,o,b as s,d as n}from"./index.bc3fe9ee.js";const t={},c={class:"login"},_=n("h1",null,"This is an login page",-1),a=[_];function i(r,d){return o(),s("div",c,a)}const f=e(t,[["render",i]]);export{f as default};
